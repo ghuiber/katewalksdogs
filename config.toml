@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kate walks dogs"
+canonifyUrls = "true"
+theme = "landing-page-hugo"
+
+[params]
+    description = "in the Inner Richmond, SF"
